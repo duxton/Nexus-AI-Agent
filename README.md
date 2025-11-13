@@ -6,6 +6,8 @@ Backend
 
 cd fastapi-backend 
 
+please include your openai api key and weather key it will be provided in the email send
+
 pip install -r requirements.txt 
 
 source env/bin/activate
