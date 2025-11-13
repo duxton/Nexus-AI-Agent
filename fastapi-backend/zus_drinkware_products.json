@@ -1,0 +1,130 @@
+[
+  {
+    "name": "ZUS Coffee Tumbler - Black",
+    "price": "RM 45.00",
+    "description": "Premium stainless steel tumbler with double-wall insulation. Keeps drinks hot for 6 hours and cold for 12 hours. Features the iconic ZUS Coffee logo and ergonomic design.",
+    "category": "Tumblers",
+    "material": "Stainless Steel",
+    "capacity": "16oz (473ml)",
+    "features": [
+      "Double-wall insulation",
+      "Leak-proof lid",
+      "Ergonomic design",
+      "BPA-free"
+    ],
+    "image": "https://shop.zuscoffee.com/products/tumbler-black.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-tumbler-black"
+  },
+  {
+    "name": "ZUS Coffee Mug - Ceramic White",
+    "price": "RM 28.00",
+    "description": "Classic ceramic coffee mug with ZUS Coffee branding. Perfect for enjoying your morning brew at home or office. Dishwasher and microwave safe.",
+    "category": "Mugs",
+    "material": "Ceramic",
+    "capacity": "12oz (355ml)",
+    "features": [
+      "Microwave safe",
+      "Dishwasher safe",
+      "Classic design",
+      "Heat retention"
+    ],
+    "image": "https://shop.zuscoffee.com/products/mug-ceramic-white.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-ceramic-mug-white"
+  },
+  {
+    "name": "ZUS Coffee Travel Mug - Silver",
+    "price": "RM 52.00",
+    "description": "Professional travel mug with spill-proof lid and comfortable grip. Ideal for commuters and coffee lovers on the go. Premium build quality.",
+    "category": "Travel Mugs",
+    "material": "Stainless Steel",
+    "capacity": "20oz (590ml)",
+    "features": [
+      "Spill-proof",
+      "Non-slip base",
+      "360° drinking",
+      "Temperature retention"
+    ],
+    "image": "https://shop.zuscoffee.com/products/travel-mug-silver.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-travel-mug-silver"
+  },
+  {
+    "name": "ZUS Coffee French Press - Glass",
+    "price": "RM 89.00",
+    "description": "Elegant borosilicate glass French press for brewing perfect coffee at home. Includes mesh filter and easy-pour spout. Makes 4 cups.",
+    "category": "Brewing Equipment",
+    "material": "Borosilicate Glass",
+    "capacity": "34oz (1L)",
+    "features": [
+      "Heat-resistant glass",
+      "Mesh filter",
+      "Easy-pour spout",
+      "4-cup capacity"
+    ],
+    "image": "https://shop.zuscoffee.com/products/french-press-glass.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-french-press-glass"
+  },
+  {
+    "name": "ZUS Coffee Espresso Cup Set",
+    "price": "RM 35.00",
+    "description": "Set of 2 traditional espresso cups with matching saucers. Perfect for authentic espresso experience. Made from fine porcelain.",
+    "category": "Espresso Cups",
+    "material": "Porcelain",
+    "capacity": "3oz (90ml) each",
+    "features": [
+      "Set of 2",
+      "Matching saucers",
+      "Fine porcelain",
+      "Traditional design"
+    ],
+    "image": "https://shop.zuscoffee.com/products/espresso-cup-set.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-espresso-cup-set"
+  },
+  {
+    "name": "ZUS Coffee Cold Brew Bottle",
+    "price": "RM 65.00",
+    "description": "Sleek glass bottle designed specifically for cold brew coffee. Features removable mesh filter and airtight lid. Perfect for summer refreshment.",
+    "category": "Cold Brew",
+    "material": "Borosilicate Glass",
+    "capacity": "32oz (946ml)",
+    "features": [
+      "Cold brew optimized",
+      "Removable filter",
+      "Airtight seal",
+      "Refrigerator-friendly"
+    ],
+    "image": "https://shop.zuscoffee.com/products/cold-brew-bottle.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-cold-brew-bottle"
+  },
+  {
+    "name": "ZUS Coffee Thermal Carafe",
+    "price": "RM 125.00",
+    "description": "Large thermal carafe for keeping coffee hot during meetings or gatherings. Double-wall vacuum insulation maintains temperature for hours.",
+    "category": "Carafes",
+    "material": "Stainless Steel",
+    "capacity": "68oz (2L)",
+    "features": [
+      "Vacuum insulation",
+      "Large capacity",
+      "Pour-friendly spout",
+      "Heat retention"
+    ],
+    "image": "https://shop.zuscoffee.com/products/thermal-carafe.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-thermal-carafe"
+  },
+  {
+    "name": "ZUS Coffee Bamboo Cup - Eco",
+    "price": "RM 38.00",
+    "description": "Eco-friendly bamboo fiber cup with silicone lid and sleeve. Sustainable choice for environmentally conscious coffee lovers. Biodegradable.",
+    "category": "Eco-Friendly",
+    "material": "Bamboo Fiber",
+    "capacity": "14oz (414ml)",
+    "features": [
+      "Eco-friendly",
+      "Silicone lid",
+      "Bamboo fiber",
+      "Biodegradable"
+    ],
+    "image": "https://shop.zuscoffee.com/products/bamboo-cup-eco.jpg",
+    "url": "https://shop.zuscoffee.com/products/zus-bamboo-cup-eco"
+  }
+]
