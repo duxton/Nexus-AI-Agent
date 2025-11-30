@@ -1,5 +1,4 @@
-# mindhive-technical-assessment
-Duxton's mindhive chatbot solution
+Nexus = connection point/hub for multiple tools and data sources   - AI = artificial intelligence capabilities   - Agent = autonomous decision-making entity
 
 Instruction on how to run backend 
 Backend 
